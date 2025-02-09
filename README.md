@@ -15,16 +15,16 @@ Visualization: Column Chart showing orders per hour.
 Tooltip: Displays total orders for each hour.
 
 
-**2. Busiest Day of the Week
-**
+**2. Busiest Day of the Week**
+
 DAX Measure: Finds the day with the most orders.
 
 Visualization: Bar Chart with weekdays on the X-axis.
 
 Sorting: Orders in descending order to highlight peak days.
 
-**
-3. Total Sales Calculation**
+
+**3. Total Sales Calculation**
 
 DAX Measure: Computes overall revenue from pizza sales.
 
@@ -54,8 +54,8 @@ Ribbon Chart (For trend-based analysis)
 Tooltip: Shows revenue per pizza.
 
 
-**6. Most Active Time of Day (Morning/Afternoon/Evening/Night)
-**
+**6. Most Active Time of Day (Morning/Afternoon/Evening/Night)**
+
 DAX Measure: Categorizes orders by time of day and finds the busiest period.
 
 Visualization: Pie Chart or Stacked Bar Chart for comparison.
